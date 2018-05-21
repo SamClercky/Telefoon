@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telefoon</string>
+    <string name="error_no_permission">Geen toestemming gegeven</string>
+    <string name="error_no_phoneNo">Er was geen telefoonnummer opgegeven</string>
+    <string name="not_missed_call">Gemiste oproep</string>
+</resources>

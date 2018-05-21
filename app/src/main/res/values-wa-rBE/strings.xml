@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Téléphone</string>
+    <string name="error_no_permission">Pas de permission donné</string>
+    <string name="error_no_phoneNo">Il y avait pas de numméro de téléphone</string>
+    <string name="not_missed_call">Appèlle pas répondu</string>
+</resources>
